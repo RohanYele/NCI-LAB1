@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open test.htm",
-            "file": "c:\\Users\\Yele\\Documents\\GitHub\\NCI-LAB1\\test.htm"
+            "file": "c:\\Users\\Yele\\Documents\\GitHub\\NCI-LAB1\\test2.html"
         }
     ]
 }
